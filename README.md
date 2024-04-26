@@ -37,7 +37,37 @@ What I have learned from this lesson:
 
 ### [Build a birthday GIFT site][6]
 
-### [[__Solo Project__: Creating Home Town Website]][7]
+### 📌 [[__Solo Project__: Creating Home Town Website]][7]
+
+## Module 3: Making Website Interactive (215 lessons, 10 Hours and 42 min)
+
+In this module, get to know about DOM manipulation and working with JavaScript. Solo Projects and Leanings are mentioned below
+
+### [Build a Passenger Counter App][8]
+
+### 📌 [[__Solo Project__: Basketball Scoreboard Project]][9]
+
+### Setup a Local Dev Environment
+
+### [Build a Black-jack Game][10]
+
+### 📌 [[__Solo Project__: Password Generator]][11]
+
+### [Build a Chrome Extension][12]
+
+### 📌 [[__Solo Project__: Unit Converter]][13]
+
+### [Build a Mobile Application][14]
+
+## Module 4: Essential CSS Concepts (70 lessons, 4 Hours and 30 min)
+
+### [Build an NFT Site][15]
+
+### [Build a Profile Website][16]
+
+### 📌 [[__Solo Project__: Oldagram, clone of Instagram]][17]
+
+### [Build a Co-Working Space][18]
 
 
 
@@ -56,3 +86,17 @@ What I have learned from this lesson:
 [5]:https://github.com/shubhamdevs/scrimba.m2p4-space-exploration-site
 [6]:https://github.com/shubhamdevs/scrimba.m2p5-birthday-gift-site
 [7]:https://github.com/shubhamdevs/hometown-homepage
+[8]:https://github.com/shubhamdevs/scrimba.m3p1-passenger-counter-app
+[9]:https://www.google.com/
+[10]:https://github.com/shubhamdevs/scrimba.m3p2-blackjack-game
+[11]:
+[12]:
+[13]:
+[14]:
+[15]:https://github.com/shubhamdevs/scrimba.m4p1-NFT-site
+[16]:https://github.com/shubhamdevs/scrimba.m4p2-profolio-website
+[17]:
+[18]:
+[19]:
+[20]:
+
