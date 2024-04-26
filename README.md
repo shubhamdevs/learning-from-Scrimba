@@ -20,14 +20,17 @@ In this module, I got to learn the basics of HTML and CSS. I created some instru
 ### [Build and deploy your first website][2]
 
 What I have learned from this lesson:
-- Core HTML Tags
-- Nesting
-- Buttons
-- Input Fields
-- Anchor tags
-- Document Structures
-- Lists
-- Deployment
+
+
+|     Subjects   |       Subjects      |      Subjects      |
+| -------------- | ------------------- | ------------------ |
+| Core HTML Tags | Anchor tags         | Input Fields       |
+| Nesting        | Document Structures | Netlify Deployment |
+| Buttons        | Lists               |                    |
+
+
+
+
 
 ### [Build a Google.com clone][3]
 
