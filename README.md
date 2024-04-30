@@ -1,4 +1,4 @@
-# Learning from Scrimba --> [FontEnd Career Path][1]
+#  [FrontEnd Career Path][1]
 
 It has 12 sets of modules. Each module compromises a set of learning by doing projects and each section has some solo projects. (Except Module 1)
 Here, I write about all the projects and what I have learned from the projects.
