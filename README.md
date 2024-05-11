@@ -72,6 +72,16 @@ In this module, get to know about DOM manipulation and working with JavaScript. 
 
 ### [Build a Co-Working Space][18]
 
+---
+
+## Module 5: Essential JavaScript Concepts (157 lessons, 10 Hours and 38 min)
+
+### [Cookie Consent Website][19]
+
+### [Meme Picker Website][20]
+
+### [Twimba: Twitter Clone][21]
+
 
 
 
